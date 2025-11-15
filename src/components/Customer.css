@@ -1,0 +1,36 @@
+.outer_div{
+    padding: 20px;
+}
+
+.searching_cust{
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 1px #cccc;
+    width: 250px;
+    display: flex inline;
+    margin-right: 10px;
+}
+
+.filtering_cust{
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 1px #cccc;
+    width: auto;
+    display: flex inline;
+}
+
+.filtering_cust, .searching_cust{
+    height: 30px;
+    background-color: white;
+}
+
+input[type="text"] {
+  border: none; 
+  outline: none;
+  padding-left: 7px;
+}
+
+button{
+     border: none; 
+  outline: none;
+}

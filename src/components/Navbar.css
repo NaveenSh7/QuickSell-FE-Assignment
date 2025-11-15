@@ -1,0 +1,42 @@
+
+
+.logo_quicksell{
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 10px;
+    border-bottom: solid 1px #cccc;
+   /* border-style: solid; */
+}
+
+img{
+    margin: 0%;
+}
+
+.navbar{
+   position: sticky;
+}
+
+.customers_maindiv{
+    border-bottom: solid 1px #cccc;
+    /* background-color: #FFFFFF; */
+}
+
+.all_cust{
+    display:flex inline;
+    padding: 5px;
+    margin: 0%;
+    gap: 8px;
+    width: auto;
+}
+
+.numbers_part p{
+    background-color: lightgreen; 
+    color: green;
+    border-radius: 10px;
+    padding: 2px;
+    height: 20px;
+}
+
+.customers{
+    font-size: 20px;
+}
