@@ -1,3 +1,3 @@
---quicksell-frontend-assignment
+quicksell-frontend-assignment 
 --By Naveen S H
 --IIT Indore -EE
